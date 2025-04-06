@@ -1,1 +1,1 @@
-# data-science-job-prediction
+# Data Science Job Success Prediction
